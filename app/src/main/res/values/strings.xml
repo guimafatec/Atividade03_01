@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atividade03_01</string>
+    <string name="my_name">Gustavo Guimarães de Oliveira</string>
+    <string name="my_ra">1110482313013</string>
+    <string name="valor_gasolina">Valor da Gasolina (Litro)</string>
+    <string name="valor_etanol">Valor do Etanol (Litro)</string>
+    <string name="calcular">Calcular</string>
+    <string name="res_final">Compensa abastecer</string>
+</resources>
